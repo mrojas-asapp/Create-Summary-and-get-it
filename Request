@@ -1,0 +1,350 @@
+{
+    "header": {
+        "meta": {
+            "company": {
+                "id": "agnostic"
+            }
+        },
+        "client": {
+            "type": 2
+        }
+    },
+    "query": {
+        "detail": {
+            "client_datetime": {
+                "value": "12121212"
+            },
+            "agent": {
+                "user_type": "REP",
+                "external_id": "10001",
+                "external_name": "john smith"
+            },
+            "customer": {
+                "user_type": "CUSTOMER",
+                "external_id": "10002",
+                "external_name": "jane doe"
+            },
+            "properties": {
+                "prop1": "xxxxx",
+                "prop2": "yyyyyy"
+            }
+        },
+        "messages": [
+            {
+                "message": "hello my name is teresa how can i help you today",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:10:59.364Z"
+                }
+            },
+            {
+                "message": "yeah i'm calling about two lines on my account _n2 _n3 _n1 _n2 in the ninety and then on _n1 _n1 _n1 _n1",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:11:59.364Z"
+                }
+            },
+            {
+                "message": "all right today let me go ahead and get your account information what is",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:12:59.364Z"
+                }
+            },
+            {
+                "message": "okay",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:13:59.364Z"
+                }
+            },
+            {
+                "message": "your first name",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:14:59.364Z"
+                }
+            },
+            {
+                "message": "yes first name dear name is hall",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:15:59.364Z"
+                }
+            },
+            {
+                "message": "thank you and what's your address on the account",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:16:59.364Z"
+                }
+            },
+            {
+                "message": "you depends eight seven s is",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:17:59.364Z"
+                }
+            },
+            {
+                "message": "i'm sorry what was your billing address",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:18:59.364Z"
+                }
+            },
+            {
+                "message": "been it just forty card or everything southeast and then the job just the one sec",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:19:59.364Z"
+                }
+            },
+            {
+                "message": "all right thank you",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:20:59.364Z"
+                }
+            },
+            {
+                "message": "yeah",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:21:59.364Z"
+                }
+            },
+            {
+                "message": "ok so i had called information on here mister hall what was your questions about the wrong",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:22:59.364Z"
+                }
+            },
+            {
+                "message": "yeah i was gonna put up with the with the rep you get a error message i'm trying to get the number ported to the two numbers for that",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:23:59.364Z"
+                }
+            },
+            {
+                "message": "ok five one",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:24:59.364Z"
+                }
+            },
+            {
+                "message": "you said question what",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:25:59.364Z"
+                }
+            },
+            {
+                "message": "for the number ending in _n1 _n1 _n1 _n1 request",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:26:59.364Z"
+                }
+            },
+            {
+                "message": "is in progress always in progress",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:27:59.364Z"
+                }
+            },
+            {
+                "message": "yes",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:28:59.364Z"
+                }
+            },
+            {
+                "message": "on hold on one second i don't need no i'm talking over you said progress",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:29:59.364Z"
+                }
+            },
+            {
+                "message": "yes it is in progress so when it shows a",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:30:59.364Z"
+                }
+            },
+            {
+                "message": "yes it is in progress so when it shows up when it shows up that the port request is been connected it shows is that number been cancelled here",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:31:59.364Z"
+                }
+            },
+            {
+                "message": "yeah you you said this is a",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:32:59.364Z"
+                }
+            },
+            {
+                "message": "that was actually shows six s all the other number the _n1 _n1 _n1 _n1 that",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:33:59.364Z"
+                }
+            },
+            {
+                "message": "yes",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:34:59.364Z"
+                }
+            },
+            {
+                "message": "one",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:35:59.364Z"
+                }
+            },
+            {
+                "message": "doing",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:36:59.364Z"
+                }
+            },
+            {
+                "message": "is no that one's not so that was not ported because you have a balance on that on that number",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:37:59.364Z"
+                }
+            },
+            {
+                "message": "you said have a whole",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:38:59.364Z"
+                }
+            },
+            {
+                "message": "not who you have a balance there",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:39:59.364Z"
+                }
+            },
+            {
+                "message": "know i said because i can use oh",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:40:59.364Z"
+                }
+            },
+            {
+                "message": "it's okay you still owe on the phone for that line so that's why that one that one's not even showing that it could be processed",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:41:59.364Z"
+                }
+            },
+            {
+                "message": "and what what the remaining is",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:42:59.364Z"
+                }
+            },
+            {
+                "message": "0o six hundred eighty dollars and fifty four cents",
+                "sender": {
+                    "user_type": "REP"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:43:59.364Z"
+                }
+            },
+            {
+                "message": "ok see about doing it right now though i go ahead proceed with that",
+                "sender": {
+                    "user_type": "CUSTOMER"
+                },
+                "client_datetime": {
+                    "value": "2022-01-27T21:44:59.364Z"
+                }
+            }
+        ]
+    }
+}
