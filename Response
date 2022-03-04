@@ -1,0 +1,67 @@
+{
+    "header": {
+        "source": {
+            "name": "auto-summary",
+            "path": "/rpc/com.asapp.schemas.domain.edge.autosummary.v1beta.services.AutoSummary/CreateStructuredSummaryTags",
+            "build": "unknown",
+            "ip": "100.64.125.196",
+            "host": "autosummary-7c985fb9-9dmnf"
+        },
+        "span": {
+            "value": "ff92f918-9bef-11ec-9877-aa344b5ff287"
+        },
+        "parentSpan": {},
+        "rootSpan": {
+            "value": "ff92f918-9bef-11ec-9877-aa344b5ff287"
+        },
+        "createTime": {
+            "value": "2022-03-04T19:19:22.895417+00:00"
+        },
+        "pubTime": {
+            "value": "2022-03-04T19:19:23.186899+00:00"
+        },
+        "chain": [
+            {
+                "name": "auto-summary",
+                "path": "/rpc/com.asapp.schemas.domain.edge.autosummary.v1beta.services.AutoSummary/CreateStructuredSummaryTags",
+                "build": "unknown",
+                "ip": "100.64.125.196",
+                "host": "autosummary-7c985fb9-9dmnf"
+            }
+        ],
+        "client": {
+            "type": "WEB"
+        },
+        "session": {},
+        "meta": {
+            "region": {},
+            "language": {},
+            "user": {},
+            "company": {
+                "id": "agnostic"
+            },
+            "model": {}
+        },
+        "return": {
+            "code": "OK",
+            "message": "ok"
+        }
+    },
+    "results": {
+        "conversationId": "01FXB5YNHB14F4N559AAC7Q3RX",
+        "summaryResults": [
+            {
+                "actor": "PARTICIPANT_ROLE_CUSTOMER",
+                "act": "fix",
+                "topic": "account",
+                "status": "_"
+            },
+            {
+                "actor": "PARTICIPANT_ROLE_AGENT",
+                "act": "inform",
+                "topic": "balance",
+                "status": "_"
+            }
+        ]
+    }
+}
